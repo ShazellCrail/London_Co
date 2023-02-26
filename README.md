@@ -9,4 +9,5 @@ su nombre en inglés y podrá escuchar cómo se pronuncia. Esto para cada uno de
 
 Para cada departamento el usuario podrá realizar dos evaluaciones: una de writing y otra de listening. En la evaluación de writing se mostrará la imagen del objeto y 
 el usuario deberá ingresar el nombre en inglés; en la evaluación de listening el usuario reproducirá un audio y escribirá el nombre del objeto al que se refiere el audio. 
+
 Al finalizar cada evaluación se le mostrará su calificación. 
