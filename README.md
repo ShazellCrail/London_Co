@@ -1,5 +1,5 @@
 # London_Co
-Sistema interactivo para aprender inglés, programado en Visual Studio.
+Sistema interactivo para aprender inglés, programado en Visual Studio (Visual Basic).
 
 Este sistema interactivo está ambientado en una tienda departamental con 7 diferentes departamentos: Accesorios, electrónica, vinos y licores, libros, ropa, 
 juguetería y restaurante.
